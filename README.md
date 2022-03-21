@@ -1,6 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Demostration of doing different methods (SSR, SSG, CSR, SWR, ISR) of data fetching and rendering in Next JS
+
 ## Getting Started
+
+### installing packages
+
+```bash
+npm install
+# or
+yarn
+```
 
 First, run the development server:
 
